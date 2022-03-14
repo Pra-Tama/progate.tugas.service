@@ -46,9 +46,13 @@ h3{
     padding: 15px 15px 15px 15px;
     border-radius: 8px;
     border: 1px solid rgba(191, 0, 255, 1.0);
-    color: rgba(191, 0, 255, 1.0);
     margin-top: 20px;
     font-weight: bold;
+}
+
+.btn-explore a{
+    text-decoration: none;
+    color: rgba(191, 0, 255, 1.0);
 }
 
 .clear{
@@ -85,8 +89,12 @@ h3{
 .learn-how{
     padding-top: 20px;
     padding-bottom: 20px;
-    color: rgba(191, 0, 255, 1.0);
     font-weight: bold;
+}
+
+.learn-how a{
+    text-decoration: none;
+    color: rgba(191, 0, 255, 1.0);
 }
 
 .space{
